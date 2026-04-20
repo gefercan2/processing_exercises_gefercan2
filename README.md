@@ -6,5 +6,8 @@ Processing Foundation:<BR>
 https://processingfoundation.org/<br>
 https://processing.org/<br>
 https://processing.org/tutorials<br>
-Tim Rodenbroker website:
-https://timrodenbroeker.de/
+Tim Rodenbroker website: <br>
+https://timrodenbroeker.de/ <br>
+other references: <br>
+https://sosoft.arts.ucla.edu/indexing-software-art/?s=08
+https://www.papermark.com/view/cmnr0cc9k000zic04t2kuc0tq?s=08
